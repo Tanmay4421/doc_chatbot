@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langmem
+langchain-openai
+langchain-qdrant
+langchain-huggingface
+langchain_text_splitters
+qdrant-client
+fastembed
+pypdf
+python-docx
+python-multipart
+sentence-transformers
+tiktoken
